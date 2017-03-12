@@ -4,7 +4,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 
 		http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>clinic.programming</groupId>
+  <groupId>smitten87</groupId>
   <artifactId>maven-quick-start</artifactId>
   <version>1.1</version>
   
@@ -19,7 +19,7 @@
 		<artifactId>junit</artifactId>
 		<version>4.12</version>
 		<scope>test</scope>
-</dependency>
+	</dependency>
   </dependencies>
 	<build>
 		<plugins>
